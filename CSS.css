@@ -1,0 +1,142 @@
+.btn-whoaverse-paging,.btn-whoaverse,.btn-whoaverse-medium{
+color:#333333;
+background: #fceabb; /* Old browsers */
+background: -moz-linear-gradient(top,  #fceabb 0%, #fccd4d 50%, #f8b500 51%, #fbdf93 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fceabb), color-stop(50%,#fccd4d), color-stop(51%,#f8b500), color-stop(100%,#fbdf93)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fceabb', endColorstr='#fbdf93',GradientType=0 ); /* IE6-9 */
+border:1px solid #CCBA9B;
+}
+.btn-whoaverse-paging:hover,.btn-whoaverse-paging:active,.btn-whoaverse:hover,.btn-whoaverse:active,.btn-whoaverse-medium:hover,.btn-whoaverse-medium:active{
+color:#333333;
+background: #f9edcf; /* Old browsers */
+background: -moz-linear-gradient(top,  #f9edcf 0%, #f9d67c 50%, #f7be2e 51%, #f9edcf 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9edcf), color-stop(50%,#f9d67c), color-stop(51%,#f7be2e), color-stop(100%,#f9edcf)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f9edcf 0%,#f9d67c 50%,#f7be2e 51%,#f9edcf 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f9edcf 0%,#f9d67c 50%,#f7be2e 51%,#f9edcf 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f9edcf 0%,#f9d67c 50%,#f7be2e 51%,#f9edcf 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f9edcf 0%,#f9d67c 50%,#f7be2e 51%,#f9edcf 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9edcf', endColorstr='#f9edcf',GradientType=0 ); /* IE6-9 */
+border:1px solid #CCBA9B;
+}
+.tabmenu .selected a{
+color:#333333!important;
+background: #fceabb!important; /* Old browsers */
+background: -moz-linear-gradient(top,  #fceabb 0%, #fccd4d 50%, #f8b500 51%, #fbdf93 100%)!important; /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fceabb), color-stop(50%,#fccd4d), color-stop(51%,#f8b500), color-stop(100%,#fbdf93))!important; /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%)!important; /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%)!important; /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%)!important; /* IE10+ */
+background: linear-gradient(to bottom,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%)!important; /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fceabb', endColorstr='#fbdf93',GradientType=0 )!important; /* IE6-9 */
+border:1px solid #CCBA9B!important;
+}
+.tabmenu .selected a:hover,.tabmenu .selected a:active,.tabmenu .disabled a:hover,.tabmenu .disabled a:active{
+color:#333333!important;
+background: #f9edcf!important; /* Old browsers */
+background: -moz-linear-gradient(top,  #f9edcf 0%, #f9d67c 50%, #f7be2e 51%, #f9edcf 100%)!important; /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9edcf), color-stop(50%,#f9d67c), color-stop(51%,#f7be2e), color-stop(100%,#f9edcf))!important; /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f9edcf 0%,#f9d67c 50%,#f7be2e 51%,#f9edcf 100%)!important; /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f9edcf 0%,#f9d67c 50%,#f7be2e 51%,#f9edcf 100%)!important; /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f9edcf 0%,#f9d67c 50%,#f7be2e 51%,#f9edcf 100%)!important; /* IE10+ */
+background: linear-gradient(to bottom,  #f9edcf 0%,#f9d67c 50%,#f7be2e 51%,#f9edcf 100%)!important; /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9edcf', endColorstr='#f9edcf',GradientType=0 )!important; /* IE6-9 */
+border:1px solid #CCBA9B!important;
+}
+
+
+.side .md a,.footer a,.bottom a,.sidecontentbox a,a.subreddit,.commentarea .title-button{
+text-decoration:none!important;
+color:#DD8800!important;
+border-bottom:1px dotted #DD8800;
+}
+.side .md a:hover,.footer a:hover,.bottom a:hover,.sidecontentbox a:hover,.commentarea .title-button:hover,.commentarea .title-button:active,
+.side .md a:active,.footer a:active,.bottom a:active,.sidecontentbox a:active,#header-bottom-right a:hover,#header-bottom-right a:active,a.subreddit:hover,a.subreddit:active{
+text-decoration:none!important;
+color:#DD8800!important;
+border-bottom:1px solid #DD8800!important;
+}
+.pagename a:hover,.pagename a:active,.content a:hover,.content a:active,.whoaversename a:hover,.whoaversename a:active{
+text-decoration:underline;
+color:#DD8800!important;
+}
+.leavemoderator a,.leavemoderator a:hover,.tagline > .author{
+color:#DD8800!important;
+}
+a.author{
+display:inline-block;
+padding:3px;
+border:none;
+}
+a.author:hover,a.author:active{
+border:none!important;
+}
+
+.tagline > a.moderator,.tagline > a.moderator:hover,.tagline > a.moderator:active{
+background:#007700!important;
+color:#F0F0F0!important;
+border-radius:2px;
+}
+.tagline > a.moderator:after{
+content:" MODERATOR"
+}
+
+.side{
+box-shadow:0 0 4px -1px rgba(0,0,0,0.35);
+}
+#header-bottom-left{
+border:none;
+box-shadow:0 15px 5px -16px rgba(0,0,0,0.35) inset,0 -15px 5px -16px rgba(0,0,0,0.35) inset;
+}
+#header-bottom-right{
+box-shadow:0 8px 5px -9px rgba(0,0,0,0.35);
+}
+.side .md{
+overflow:visible;
+z-index:1000;
+margin:0;
+padding:5px;
+background:#FAFAFA;
+margin-top:15px;
+margin-bottom:15px;
+border:1px solid #DCDCDC;
+}
+.titlebox h1{
+margin: -5px 0 10px 0;
+} 
+.side .md > h1{
+border:0;
+margin:0;
+padding:0;
+background-color:#F9D67C;
+color:#333333;
+padding:5px 10px;
+padding-left:20px;
+padding-right:0;
+margin-right:-9px;
+margin-left:-20px;
+border-bottom:1px solid black;
+margin-bottom:5px;
+margin-top:10px;
+z-index:100;
+border-color:#F9D67C!important;
+}
+
+/* triangle at the end */
+
+.side .md > h1:after{
+display:block;
+content:" ";
+border-color:transparent #F9D67C transparent transparent;
+border-style:solid;
+border-width:15px;
+height:0px;
+width:0px;
+position:absolute;
+z-index:-1;
+margin-left:-34px;
+margin-top:-9px;
+}
